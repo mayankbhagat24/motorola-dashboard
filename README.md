@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project analyzes **Motorola smartphone sales data** to provide insights into sales performance across different cities, months, brands, and payment methods.  
 The dashboard is built entirely in **Power BI**, with **Excel** used for initial data preparation and cleaning.  
+## 📷 Dashboard Screenshot
+![Dashboard Screenshot](assets/dashboard.png)
 
 ## 🎯 Key Features
 - **KPIs**: Total Sales (769M), Total Quantity (19K), Total Transactions (4K), and Average Sales (40K).  
@@ -18,8 +20,7 @@ The dashboard is built entirely in **Power BI**, with **Excel** used for initial
 - **Power BI** – Data visualization & dashboard building  
 - **Excel** – Data cleaning and preprocessing  
 
-## 📷 Dashboard Screenshot
-![Dashboard Screenshot](assets/motorola_dashboard.png)
+
 
 ## 🔑 Insights
 - **July** recorded the **highest monthly sales (70M)**.  
@@ -28,4 +29,3 @@ The dashboard is built entirely in **Power BI**, with **Excel** used for initial
 - **Customer satisfaction** is high, with most ratings being 4★ and 5★.  
 - Sales peak during **weekends**, indicating stronger buying patterns.  
 
-## 📂 Project Structure
